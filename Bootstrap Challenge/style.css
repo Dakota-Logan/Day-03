@@ -1,3 +1,7 @@
-body{
-	background:  linear-gradient(to right, purple 0%, purple50%, white 50%, white0%);
+/* navbar */
+.navbar-brand{
+	background-color: #ff0994;
+	box-shadow: 2px 2px 2px;
 }
+
+
